@@ -1,2 +1,2 @@
-# SimpleLocation2TZ
-Determine the timezone a location is in
+# SimpleLocation2Tz
+Determine the timezone a location is in. Usese Natural Earths timezone data 
